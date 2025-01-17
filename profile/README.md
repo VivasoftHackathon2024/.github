@@ -56,3 +56,11 @@ This is a table of contents for your project. It helps the reader navigate throu
 - [Supabase](#project-title)
 - [Django](#project-title)
 - [ReactJS](#project-title)
+
+
+
+# Other Resources and Links
+
+## Presentation Slide:
+
+[Presentation slide link](https://www.canva.com/design/DAGcZQZvbpg/F4Vc7P5iTI3l9LH_-X9XMA/edit?utm_content=DAGcZQZvbpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
