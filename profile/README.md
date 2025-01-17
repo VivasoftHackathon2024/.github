@@ -63,4 +63,16 @@ This is a table of contents for your project. It helps the reader navigate throu
 
 ## Presentation Slide:
 
-[Presentation slide link](https://www.canva.com/design/DAGcZQZvbpg/F4Vc7P5iTI3l9LH_-X9XMA/edit?utm_content=DAGcZQZvbpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Presentation Slide Link](https://www.canva.com/design/DAGcZQZvbpg/F4Vc7P5iTI3l9LH_-X9XMA/edit?utm_content=DAGcZQZvbpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Presentation Video Link:
+
+[Presentation Video Link](https://www.canva.com/design/DAGcZQZvbpg/F4Vc7P5iTI3l9LH_-X9XMA/edit?utm_content=DAGcZQZvbpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Backend Repo Link:
+
+[Backend Repo Link](https://github.com/VivasoftHackathon2024/nvidia-video-processing.git)
+
+## Frontend Repo Link:
+
+[Frontend Repo Link](https://github.com/VivasoftHackathon2024/framewise-frontend.git)
