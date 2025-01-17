@@ -24,8 +24,35 @@ Use Cases:
 3. Industrial Monitoring: Ensures compliance with safety protocols and detects anomalies in operational processes, reducing risks and improving efficiency.
 
 
-# Quick Start Demo
+# Technical Overview
 
 ![FrameWise Architecture Diagram](https://res.cloudinary.com/dyktljlnj/image/upload/v1737125702/framewise_architecture_ykujtj.png)
 
 Fig: FrameWise Architecture Diagram
+
+## List of Agents
+
+This is a table of contents for your project. It helps the reader navigate through the README quickly.
+- [Alert/Email Notifier Agent](#project-title)
+- [Summarization Agent](#project-title)
+- [Chat agent](#quick-start-demo)
+- [Fire Detection Agent](#table-of-contents)
+- [Assault Detection Agent](#installation)
+- [Crime Detection Agent](#usage)
+- [Drug Detection Agent](#development)
+- [Theft Detection Agent](#contribute)
+- [Tamper Detection Agent](#license)
+- [Suspicious Activity Agent](#license)
+- [Customer Behaviour Agent](#license)
+
+## Tech Stack
+
+- [Nvidia Cosmos 34B VLM model](#project-title)
+- [OpenAI](#project-title)
+- [OpenAI Embeddings](#project-title)
+- [LangChain](#project-title)
+- [Pgvector](#project-title)
+- [PostgreSQL](#project-title)
+- [Supabase](#project-title)
+- [Django](#project-title)
+- [ReactJS](#project-title)
