@@ -58,16 +58,42 @@ This is a table of contents for your project. It helps the reader navigate throu
 - [ReactJS](#project-title)
 
 
+## Backend Workflow
+
+### Pre-recorded video
+
+1. Video is uploaded
+2. Uploaded video is passed through the Nvidia Cosmos 34B VLM model to generate logs every 30s which are stored on Supabase PostgreSQL Database
+3. The logs are vectorized and stored in pgvector
+4. Summary is generated from that vectorized information. Summary tries to detect any incident of crime/theft/assault
+5. Automated agents such as fire agent, assault agent, crime agent, drug agent, etc analyze the uploaded video and give a specialised response about the severity if they are detected
+6. Users can also chat with the video information using the chat agent to get more detailed and personalised information from the video logs
+
+### Streaming services/Realtime CCTV footage
+
+1. Video is uploaded
+2. Uploaded video is passed through the Nvidia Cosmos 34B VLM model to generate logs every 30s which are stored on Supabase PostgreSQL Database
+3. The logs are vectorized and stored in pgvector
+4. Summary is generated from that vectorized information. Summary tries to detect any incident of crime/theft/assault
+5. Users can set custom alerts by defining specific criteria they want to monitor.
+6. Alert/Email agent keeps on checking for that custom requirement and sends a mail to the user if it is detected.
+7. Users can also chat with the video information using the chat agent to get more detailed and personalised information from the video logs
+
+
 
 # Other Resources and Links
 
-## Presentation Slide:
+## FrameWise: Deployed Application Link:
 
-[Presentation Slide Link](https://www.canva.com/design/DAGcZQZvbpg/F4Vc7P5iTI3l9LH_-X9XMA/edit?utm_content=DAGcZQZvbpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Deployed Application Link](https://www.canva.com/design/DAGcZQZvbpg/F4Vc7P5iTI3l9LH_-X9XMA/edit?utm_content=DAGcZQZvbpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Presentation Video Link:
 
 [Presentation Video Link](https://www.canva.com/design/DAGcZQZvbpg/F4Vc7P5iTI3l9LH_-X9XMA/edit?utm_content=DAGcZQZvbpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+## Presentation Slide:
+
+[Presentation Slide Link](https://www.canva.com/design/DAGcZQZvbpg/F4Vc7P5iTI3l9LH_-X9XMA/edit?utm_content=DAGcZQZvbpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Backend Repo Link:
 
