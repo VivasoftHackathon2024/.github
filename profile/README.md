@@ -85,7 +85,7 @@ This is a table of contents for your project. It helps the reader navigate throu
 
 ## FrameWise: Deployed Application Link:
 
-[Deployed Application Link](https://www.canva.com/design/DAGcZQZvbpg/F4Vc7P5iTI3l9LH_-X9XMA/edit?utm_content=DAGcZQZvbpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Deployed Application Link](https://clownfish-app-2t4g5.ondigitalocean.app/)
 
 ## Presentation Video Link:
 
@@ -102,3 +102,17 @@ This is a table of contents for your project. It helps the reader navigate throu
 ## Frontend Repo Link:
 
 [Frontend Repo Link](https://github.com/VivasoftHackathon2024/framewise-frontend.git)
+
+
+
+
+
+## LinkedIn URL:
+
+[Jaid Monwar Chowdhury](https://github.com/VivasoftHackathon2024/framewise-frontend.git)
+[Saad Mohammad Rafid Pial](https://github.com/VivasoftHackathon2024/framewise-frontend.git)
+
+
+
+
+
