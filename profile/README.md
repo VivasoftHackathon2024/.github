@@ -104,14 +104,14 @@ This is a table of contents for your project. It helps the reader navigate throu
 [Frontend Repo Link](https://github.com/VivasoftHackathon2024/framewise-frontend.git)
 
 
-
-
-
 ## LinkedIn URL:
 
 [Jaid Monwar Chowdhury](https://www.linkedin.com/in/jaid-monwar/)
 [Saad Mohammad Rafid Pial](https://www.linkedin.com/in/saadmrp/)
 
+## CV Link:
+
+[Link](https://drive.google.com/drive/folders/17JDh4jgv-3l8I6bjHL2kIcOic-X18Npd?usp=sharing)
 
 
 
