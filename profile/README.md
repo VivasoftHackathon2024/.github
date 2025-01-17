@@ -89,7 +89,7 @@ This is a table of contents for your project. It helps the reader navigate throu
 
 ## Presentation Video Link:
 
-[Presentation Video Link](https://www.canva.com/design/DAGcZQZvbpg/F4Vc7P5iTI3l9LH_-X9XMA/edit?utm_content=DAGcZQZvbpg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Presentation Video Link](https://youtube.com/playlist?list=PLVXDXOQl_dOHGKwoRXaYTDX60iXBT7uow&si=6DdGnSjFR4jhl6c6)
 
 ## Presentation Slide:
 
@@ -109,8 +109,8 @@ This is a table of contents for your project. It helps the reader navigate throu
 
 ## LinkedIn URL:
 
-[Jaid Monwar Chowdhury](https://github.com/VivasoftHackathon2024/framewise-frontend.git)
-[Saad Mohammad Rafid Pial](https://github.com/VivasoftHackathon2024/framewise-frontend.git)
+[Jaid Monwar Chowdhury](https://www.linkedin.com/in/jaid-monwar/)
+[Saad Mohammad Rafid Pial](https://www.linkedin.com/in/saadmrp/)
 
 
 
